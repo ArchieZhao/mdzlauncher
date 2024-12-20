@@ -1,6 +1,6 @@
 # MDZ Launcher
 
-MDZ Launcher 是一个用于管理 `.mdz` 文件的桌面应用程序。它集成了 Typora 和 7-Zip，允许用户轻松编辑和打包 Markdown 文件。
+MDZ Launcher 是一个用于管理 `.mdz` 文件的桌面应用程序。需要自定义 Typora 和 7-Zip路径，允许用户轻松编辑和打包 Markdown 文件。
 
 使用chatgpt辅助编写
 
