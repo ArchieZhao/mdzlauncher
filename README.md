@@ -48,3 +48,7 @@ pyinstaller --onefile --windowed --icon=icon.ico mdzlauncher_V1.3.py
 
 ### typora需要设置插入图片复制到文件夹内
 ![Typora_2024-12-20_16-47-20 677_星期五](https://github.com/user-attachments/assets/dc33013f-3041-4da3-8f73-ba13db84bbcd)
+
+
+### 使用前需要先配置typora和7z的路径
+![mdzlauncher_V1 3_2024-12-20_16-49-39 861_星期五](https://github.com/user-attachments/assets/85fcb358-0766-4a73-9dfe-9cf78af4d9b3)
