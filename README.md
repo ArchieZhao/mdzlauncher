@@ -23,5 +23,24 @@ MDZ Launcher 是一个用于管理 `.mdz` 文件的桌面应用程序。它集�
 ### 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/mdzlauncher.git
+git clone https://github.com/ArchieZhao/mdzlauncher.git
 cd mdzlauncher
+```
+
+
+
+### 安装依赖
+
+```
+pip install -r requirements.txt
+```
+
+
+
+### 打包为可执行文件
+
+```
+pyinstaller --onefile --windowed --icon=icon.ico mdzlauncher_V1.3.py
+```
+
+打包完成后，生成的 `mdzlauncher.exe` 文件位于 `dist` 目录下。
