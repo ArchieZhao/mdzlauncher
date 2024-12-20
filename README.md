@@ -29,6 +29,7 @@ cd mdzlauncher
 
 
 
+
 ### 安装依赖
 
 ```
@@ -44,3 +45,6 @@ pyinstaller --onefile --windowed --icon=icon.ico mdzlauncher_V1.3.py
 ```
 
 打包完成后，生成的 `mdzlauncher.exe` 文件位于 `dist` 目录下。
+
+### typora需要设置插入图片复制到文件夹内
+![Typora_2024-12-20_16-47-20 677_星期五](https://github.com/user-attachments/assets/dc33013f-3041-4da3-8f73-ba13db84bbcd)
